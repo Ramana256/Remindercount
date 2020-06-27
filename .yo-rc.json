@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.10.0",
+    "libraryName": "remindernote",
+    "libraryId": "da6c6348-6c70-4c41-8172-01dc48d4c09e",
+    "packageManager": "npm",
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}
